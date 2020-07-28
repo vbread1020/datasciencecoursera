@@ -1,10 +1,3 @@
----
-title: "HelloWorld"
-author: "Meichang Ma"
-date: "7/27/2020"
-output: html_document
----
-
 ## This is a markdown file
 
 Hi guys, it's good to complete my first *R programming course*!
